@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1641237570 source:c:\users\benbr\desktop\projet\prog\afficher.c
+	"location.h"
+	<stdio.h>
+
+1641238010 c:\users\benbr\desktop\projet\prog\location.h
+	<stdio.h>
+
+1641237661 source:c:\users\benbr\desktop\projet\prog\agenda2022.c
+	<stdio.h>
+	<windows.h>
+
+1641238015 source:c:\users\benbr\desktop\projet\prog\appartement.c
+	"location.h"
+	<string.h>
+
+1641237729 source:c:\users\benbr\desktop\projet\prog\date.c
+	"location.h"
+
+1641237757 source:c:\users\benbr\desktop\projet\prog\login.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1641238249 source:c:\users\benbr\desktop\projet\prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1641237790 source:c:\users\benbr\desktop\projet\prog\mise a jour.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641237816 source:c:\users\benbr\desktop\projet\prog\music.c
+	<windows.h>
+	<stdio.h>
+
+1641237844 source:c:\users\benbr\desktop\projet\prog\nom.c
+	<string.h>
+	"location.h"
+
+1641237881 source:c:\users\benbr\desktop\projet\prog\recherche.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+	<string.h>
+
+1641237912 source:c:\users\benbr\desktop\projet\prog\saisir.c
+	<stdlib.h>
+	<stdio.h>
+	"location.h"
+
+1641238593 source:c:\users\benbr\desktop\projet\prog\trier.c
+	"location.h"
+	<stdio.h>
+	<string.h>
+
+1641237969 source:c:\users\benbr\desktop\projet\prog\visitor.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+
